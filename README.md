@@ -1,7 +1,7 @@
 ## Olá eu sou Otavio Caetano ou BUR1T1 👋
 
 - 🔭 Em busca de uma oportunidade
-- 🌱 Estudando Java
+- 🌱 Estudando Java Spring boot
 
 <a href="https://github.com/BUR1T1/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BUR1T1&layout=compact&langs_count=8&card_width=320" />
